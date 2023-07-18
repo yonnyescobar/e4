@@ -1,0 +1,49 @@
+Codigo;Nombre;Creditos;Cupos
+M308;Matematicas Basicas;3;40
+G335;Geometria Vectorial y Analitica;3;40
+H871;Habilidades Comunicativas;2;40
+I208;Introduccion a la Informatica;3;40
+I870;Introduccion a la Formacion Profesional;2;40
+C602;Calculo Diferencial;3;40
+A807;Algebra Lineal;3;40
+M216;Matematicas para la Informatica;3;40
+L429;Logica de Programacion y Laboratorio;5;40
+C974;Calculo Integral;2;40
+F942;Fisica Mecanica y Laboratorio;5;40
+E869;Estructura de Datos;5;40
+F569;Fundamentos y Diseño de Bases de Datos;2;40
+F335;Fundamentacion Ambiental;2;40
+E567;Estadistica General;3;40
+P263;Programacion de Software;3;40
+C347;Ciencia, Tecnologia y Sociedad – CTS;2;40
+D500;Definicion y Analisis de Requisitos;2;40
+D302;Desarrollo de Bases de Datos;2;40
+I613;Ingles I;2;40
+A823;Aplicaciones y Servicios Web;2;40
+T285;Trabajo de Grado – Tecnologia;8;40
+R615;Redes LAN;3;40
+D870;Diseño de Sistemas de Informacion;3;40
+I229;Ingles II;2;40
+F720;Formulacion y Evaluacion de Proyectos;3;30
+A259;Administracion de Sistemas de Informacion;3;30
+P626;Pruebas y Calidad de Software;3;30
+M627;Metodologias de Desarrollo de SI;3;30
+M739;Metodos Numericos;3;30
+A501;Analisis de Algoritmos;3;30
+A898;Administracion de Bases de Datos;3;30
+A176;Aprendizaje Computacional;3;30
+I439;Ingles IV;2;30
+O524;Optimizacion;3;30
+M563;Matematicas para la Informatica Avanzada;3;30
+S950;Seminario de Investigacion;2;30
+P745;Programacion Distribuida;3;30
+I878;Inteligencia de Negocios;3;25
+S563;Sistemas Operativos;2;25
+I932;Investigacion de Operaciones;3;25
+A504;Arquitectura de Computadores;3;25
+T965;Trabajo de Grado – Ingenieria;8;25
+A664;Analisis de Datos;3;25
+M363;Modelado y Simulacion;2;25
+C414;Compiladores;3;25
+G494;Gestion de Proyectos;3;25
+A261;Arquitecturas de Software;2;25
